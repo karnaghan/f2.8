@@ -1,0 +1,3 @@
+/* Finder can't put a "/" in a file name, so the bundle is f2.8.app and this name is shown instead. */
+CFBundleDisplayName = "f/2.8";
+CFBundleName = "f/2.8";

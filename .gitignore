@@ -1,0 +1,9 @@
+# Build output (scripts/build.sh, SwiftPM)
+build/
+.build/
+.swiftpm/
+*.xcodeproj/
+DerivedData/
+
+# macOS
+.DS_Store
